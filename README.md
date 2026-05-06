@@ -6,11 +6,17 @@ This project implements a distributed system for large-scale sports news classif
 The system is designed to handle massive datasets (up to 150 million records) efficiently while maintaining high accuracy and fast response time.
 
 🎯 Key Features
+
 ⚡ Distributed data processing using Apache Spark
+
 🧠 Machine Learning pipeline with Naive Bayes
+
 📊 Efficient handling of large-scale datasets (150M+ records)
+
 🚀 Fast inference with Streamlit web interface
+
 📦 Optimized storage using Apache Parquet
+
 🛠 Tech Stack
 Python
 PySpark (Apache Spark)
