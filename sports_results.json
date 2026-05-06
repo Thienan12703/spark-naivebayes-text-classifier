@@ -1,0 +1,47 @@
+[
+  {
+    "Milestone": "1M",
+    "Processing_Time_Sec": 63.69,
+    "Throughput_Rows_Per_Sec": 15686
+  },
+  {
+    "Milestone": "5M",
+    "Processing_Time_Sec": 103.55,
+    "Throughput_Rows_Per_Sec": 48308
+  },
+  {
+    "Milestone": "10M",
+    "Processing_Time_Sec": 183.55,
+    "Throughput_Rows_Per_Sec": 54506
+  },
+  {
+    "Milestone": "30M",
+    "Processing_Time_Sec": 529.83,
+    "Throughput_Rows_Per_Sec": 56616
+  },
+  {
+    "Milestone": "50M",
+    "Processing_Time_Sec": 950.42,
+    "Throughput_Rows_Per_Sec": 52623
+  },
+  {
+    "Milestone": "80M",
+    "Processing_Time_Sec": 1620.15,
+    "Throughput_Rows_Per_Sec": 49383
+  },
+  {
+    "Milestone": "100M",
+    "Processing_Time_Sec": 2105.78,
+    "Throughput_Rows_Per_Sec": 47485
+  },
+  {
+    "Milestone": "120M",
+    "Processing_Time_Sec": 2563.20,
+    "Throughput_Rows_Per_Sec": 46813
+  },
+  {
+    "Milestone": "150M",
+    "Processing_Time_Sec": 3210.45,
+    "Throughput_Rows_Per_Sec": 46709
+  }
+]
