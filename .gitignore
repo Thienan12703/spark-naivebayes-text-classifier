@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# === BIG DATA (IMPORTANT) ===
+data/
+*.parquet
+*.csv
+*.json
+
+# === MODELS ===
+models/
+*.pkl
+*.model
+*.pt
+
+# === SPARK OUTPUT ===
+spark-warehouse/
+metastore_db/
+
+# === PROJECT SPECIFIC ===
+dataset_150M.parquet/
+sports_model_150M/
